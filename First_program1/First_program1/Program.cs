@@ -12,7 +12,7 @@ namespace First_program1
         {
             Console.WriteLine("Hello programmar");
             Console.ReadLine();
-
+            // //
 
         }
     }
