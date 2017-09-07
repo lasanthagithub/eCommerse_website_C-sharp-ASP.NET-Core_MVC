@@ -12,6 +12,8 @@ namespace First_program1
         {
             Console.WriteLine("Hello programmar");
             Console.ReadLine();
+            Console.WriteLine("Hello, this is a trial");
+            Console.ReadLine();			
             // //
 
         }
