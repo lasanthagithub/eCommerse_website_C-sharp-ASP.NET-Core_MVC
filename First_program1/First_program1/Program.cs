@@ -15,7 +15,7 @@ namespace First_program1
             Console.WriteLine("Hello, this is a trial");
             Console.ReadLine();			
             // //
-
+            Console.WriteLine("Hello, another trial line");
         }
     }
 }
