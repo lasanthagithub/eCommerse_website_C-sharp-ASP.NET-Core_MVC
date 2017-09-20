@@ -10,12 +10,14 @@ namespace First_program1
     {
         static void Main(string[] args)
         {
+            // Assignning variables
+            string myF_Name = "Lasantha";
+            string myL_Name;
+            myL_Name = "Rathnayake";
+
             Console.WriteLine("Hello programmar");
             Console.ReadLine();
-            Console.WriteLine("Hello, this is a trial");
-            Console.ReadLine();			
-            // //
-            Console.WriteLine("Hello, another trial line");
+
         }
     }
 }
