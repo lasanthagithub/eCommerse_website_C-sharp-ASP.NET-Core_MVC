@@ -42,8 +42,24 @@ namespace First_program1
             Int32.TryParse(string_Answer2, out int answer3);
             Console.WriteLine(answer3);
 
+            // Read fro the console
+            Console.WriteLine();
 
-            Console.ReadLine();
+            int num1 = 0;
+            int num2 = 0;
+            int num3 = 0;
+            Console.WriteLine("Enter a number");
+            string sNum1 = Console.ReadLine();
+            Console.WriteLine("Enter a another number");
+            string sNum2 = Console.ReadLine();
+
+            Int32.TryParse(sNum1, out num1);
+            Int32.TryParse(sNum2, out num2);
+
+            answer = num1 + num2;
+
+            Console.WriteLine("The answer is " + answer);
+            Console.ReadLine(); // This Readline to kepp the Console without closing
 
         }
     }
