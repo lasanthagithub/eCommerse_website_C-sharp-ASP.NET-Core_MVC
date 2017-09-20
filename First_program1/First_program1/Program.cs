@@ -31,17 +31,20 @@ namespace First_program1
 
             string string_Answer1 = string_Answer;
             string_Answer1 = string_Answer;
-
+            string string_Answer2 = string_Answer;
             // Convert numerical strigngs to number
             Convert.ToInt32(string_Answer1);
-            Console.WriteLine(string_Answer);
+            Console.WriteLine(string_Answer1);
 
-            string_Answer1 = string_Answer;
-            Int32.Parse(string_Answer);
-            Console.WriteLine(string_Answer);
+            Int32.Parse(string_Answer1);
+            Console.WriteLine(string_Answer1);
+
+            Int32.TryParse(string_Answer2, out int answer3);
+            Console.WriteLine(answer3);
 
 
             Console.ReadLine();
+
         }
     }
 }
