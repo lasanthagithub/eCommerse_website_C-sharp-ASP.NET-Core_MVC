@@ -21,12 +21,12 @@ namespace NumberGuesser
 
         static void Main(string[] args)
         {
-            int ourNumber = 10;
+            
             int guessNumber = 0;
-
+            //int ourNumber = 10;
             //guessNumber = GetGuess();
 
-
+            // Using While loop
             //while (ourNumber != guessNumber)
             //{
             //    if (ourNumber == guessNumber)
@@ -41,23 +41,65 @@ namespace NumberGuesser
             //    }
             //}
 
+
+            // Using for loop
+            //for (int n = 10; n > 0; n--)// n-- equal to n = n -1
+            //{
+            //    guessNumber = GetGuess();
+            //    if (ourNumber == guessNumber)
+            //    {
+            //        Console.WriteLine("That is it: Well done");
+            //        break;
+            //    }
+            //    else if (ourNumber < guessNumber)
+            //    {
+            //        Console.WriteLine("Sorry. you were too high, you have {0} guesses left", n -1);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Sorry. you were too low, you have {0} guesses left", n - 1);
+            //    }
+            //}
+
+            const int ourNumber = 10;
+            // Using switch
             for (int n = 10; n > 0; n--)// n-- equal to n = n -1
             {
                 guessNumber = GetGuess();
-                if (ourNumber == guessNumber)
+                switch (guessNumber)
                 {
-                    Console.WriteLine("That is it: Well done");
-                    break;
-                }
-                else if (ourNumber < guessNumber)
-                {
-                    Console.WriteLine("Sorry. you were too high, you have {0} guesses left", n -1);
-                }
-                else
-                {
-                    Console.WriteLine("Sorry. you were too low, you have {0} guesses left", n - 1);
+                    case (ourNumber):
+                        Console.WriteLine("That is it: Well done");
+                        n = 0;
+                        break;
+
+                    case (1):
+                        {
+                            Console.WriteLine("Thats too low");
+                            break;
+                        }
+
+                    case (100):
+                        {
+                            Console.WriteLine("Thats too high");
+                            break;
+                        }
+                    default:
+                        {
+                            Console.WriteLine("Sorry, that was wrong");
+                            if (ourNumber < guessNumber)
+                            {
+                                Console.WriteLine("Sorry. you were too high, you have {0} guesses left", n - 1);
+                            }
+                            else
+                            {
+                                Console.WriteLine("Sorry. you were too low, you have {0} guesses left", n - 1);
+                            }                            
+                            break;
+                        }
                 }
             }
+
 
             Console.WriteLine("Enter any key to trminate");
 
