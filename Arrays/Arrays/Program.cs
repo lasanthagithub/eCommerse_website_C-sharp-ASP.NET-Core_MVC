@@ -36,6 +36,8 @@ namespace Arrays
             Console.WriteLine("Row 0, column 0: "+ multiIntWithContent[0, 0] + "; row 0, column 2: " + multiIntWithContent[0, 2]);
 
             // User define arrays
+            Dog[] dogArray = new Dog[5];
+            dogArray[0] = new Dog() { Name = "Rover" };
 
             Console.ReadLine();
         }
