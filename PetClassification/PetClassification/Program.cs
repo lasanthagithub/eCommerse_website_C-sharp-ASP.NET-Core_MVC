@@ -27,7 +27,16 @@ namespace PetClassification
         static void Main(string[] args)
         {
             PetStruct dog;
-            dog.Type = "dog";
+            dog.Type = "Dog";
+            dog.Legs = 4;
+            dog.HasFur = true;
+
+            PetClass duck = new PetClass();
+            duck.Type = "Duck";
+            duck.Legs = 2;
+            duck.HasFur = false;
+
+
             Console.ReadLine();
         }
     }
