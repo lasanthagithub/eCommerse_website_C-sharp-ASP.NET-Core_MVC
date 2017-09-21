@@ -8,7 +8,9 @@ namespace Arrays
 {
     class Dog
     {
+        public int Id { get; set; }
         public string Name { get; set; }
+        public int Legs { get; set; }
     }
     class Program
     {
@@ -57,8 +59,50 @@ namespace Arrays
             // List sorting
             strings.Sort();
 
+            List<Dog> dogs = new List<Dog>();
+            Dog dog = new Dog();
+            dog.Name = "Rover";
+            dog.Legs = 4;
+
+            // or
+            Dog dog1 = new Dog() { Name = "Rover", Legs = 4};
+
+            // or
+            List<Dog> dogs1 = new List<Dog>() {
+                new Dog() {Id = 1, Name = "Rover", Legs = 4 },
+                new Dog() {Id = 2, Name = "Bantar", Legs = 4 }
+            };
+
+            // Search in a list (Linq queary)
+            List<Dog> nameResults = (from d in dogs
+                                 where d.Name == "Rover"
+                                 select d).ToList(); // gives out a list
+            
+            Dog foundDog = (from d in dogs
+                                 where d.Id == 1
+                                 select d).FirstOrDefault(); // Gives out a single value
+
+            var varResults1 = from d in dogs
+                               where d.Id == 1
+                               select d; // Gives out a single value. var will figure out the type
+
+            // list Lambda method. 
+            List<Dog> nameResults2;
+            nameResults2 = dogs.Where(d => d.Name == "Bantar").ToList();// Identical to nameResults codes above
+
+            Dog foundDog1;
+            foundDog1 = dogs1.FirstOrDefault(d => d.Id == 1); // Identical to foundDog codes above
+
 
             // Dictionary collection
+            Dictionary<string, string> names = new Dictionary<string, string>();
+            names.Add("James", "Bond");
+            names.Add("Money", "Penny");
+
+            Console.WriteLine(names["Money"]);
+            names.Remove("Money");
+
+
 
 
             Console.ReadLine();
