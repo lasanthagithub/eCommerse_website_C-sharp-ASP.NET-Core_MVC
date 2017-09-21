@@ -45,6 +45,17 @@ namespace PetClassification
 
     class Program
     {
+        // Defining MultipleLegs method
+        static void MultipleLegs(PetStruct1 petStruct, PetClass1 petClass)
+        {
+            petStruct.Legs = petStruct.Legs *2;
+            petClass.Legs = petClass.Legs * 2;
+
+            Console.WriteLine("Internal method: A " + petStruct.Type + " has " + petStruct.Legs);
+            Console.WriteLine("Internal method: A " + petClass.Type + " has " + petClass.Legs);
+
+        }
+
         static void Main(string[] args)
         {
             // Using structure - example
@@ -62,7 +73,7 @@ namespace PetClassification
             Console.WriteLine("A " + duck.Type + " has " + duck.Legs + " legs");
 
             // Using structure using enumerate  - example
-            PetStruct1 dog1;
+            PetStruct1 dog1 = new PetStruct1();
             dog1.Type = PetType.dog;
             dog1.Legs = 4;
             dog1.HasFur = true;
@@ -74,6 +85,9 @@ namespace PetClassification
             duck1.Legs = 2;
             duck1.HasFur = false;
             Console.WriteLine("A " + duck1.Type + " has " + duck1.Legs + " legs");
+
+            // Calling the method
+            MultipleLegs(dog1, duck1);
 
             Console.ReadLine();
         }
