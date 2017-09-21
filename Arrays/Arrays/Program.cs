@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Arrays
 {
+    class Dog
+    {
+        public string Name { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -30,6 +34,9 @@ namespace Arrays
 
             Console.WriteLine(multiIntWithContent[0, 0] + multiIntWithContent[0, 2]);
             Console.WriteLine("Row 0, column 0: "+ multiIntWithContent[0, 0] + "; row 0, column 2: " + multiIntWithContent[0, 2]);
+
+            // User define arrays
+
             Console.ReadLine();
         }
     }
