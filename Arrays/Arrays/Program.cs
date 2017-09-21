@@ -39,6 +39,28 @@ namespace Arrays
             Dog[] dogArray = new Dog[5];
             dogArray[0] = new Dog() { Name = "Rover" };
 
+            // List collection
+            List < string > strings = new List<string>();
+            strings.Add("String 1");
+            strings.Add("String 2");
+            strings.Add("String 3");
+
+            // Accesing data
+            string getValue = strings[0];
+
+            // Insert an element to given postion
+            strings.Insert(1, "inserted new");
+            // Remove an element
+            strings.Remove("String 2"); // search adn remove
+            strings.RemoveAt(2); // remove at index
+
+            // List sorting
+            strings.Sort();
+
+
+            // Dictionary collection
+
+
             Console.ReadLine();
         }
     }
