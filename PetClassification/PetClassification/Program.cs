@@ -89,6 +89,13 @@ namespace PetClassification
             // Calling the method
             MultipleLegs(dog1, duck1);
 
+            // Copy and assign previously used objects to new variables
+            PetStruct1 copiedDog = dog1;
+            PetClass1 copiedDuck = duck1;
+
+            Console.WriteLine("A " + copiedDog.Type + " has " + copiedDog.Legs + " legs");
+            Console.WriteLine("A " + copiedDuck.Type + " has " + copiedDuck.Legs + " legs");
+
             Console.ReadLine();
         }
     }
