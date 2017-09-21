@@ -24,22 +24,40 @@ namespace NumberGuesser
             int ourNumber = 10;
             int guessNumber = 0;
 
-            guessNumber = GetGuess();
+            //guessNumber = GetGuess();
 
 
-            while (ourNumber != guessNumber)
+            //while (ourNumber != guessNumber)
+            //{
+            //    if (ourNumber == guessNumber)
+            //    {
+            //        Console.WriteLine("That is it: Well done");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Sorry. Not even close");
+            //        guessNumber = GetGuess();
+
+            //    }
+            //}
+
+            for (int n = 10; n > 0; n--)// n-- equal to n = n -1
             {
+                guessNumber = GetGuess();
                 if (ourNumber == guessNumber)
                 {
                     Console.WriteLine("That is it: Well done");
+                    break;
+                }
+                else if (ourNumber < guessNumber)
+                {
+                    Console.WriteLine("Sorry. you were too high, you have {0} guesses left", n -1);
                 }
                 else
                 {
-                    Console.WriteLine("Sorry. Not even close");
-
+                    Console.WriteLine("Sorry. you were too low, you have {0} guesses left", n - 1);
                 }
             }
-
 
             Console.WriteLine("Enter any key to trminate");
 
