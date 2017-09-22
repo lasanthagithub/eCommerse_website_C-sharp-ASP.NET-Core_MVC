@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using eCommerse.WebUI.Models;
+using eCommerse.WebUi.Models;
 
-namespace eCommerse.WebUI
+namespace eCommerse.WebUi
 {
     public partial class Startup
     {

@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using eCommerse.WebUI.Models;
+using eCommerse.WebUi.Models;
 
-namespace eCommerse.WebUI.Controllers
+namespace eCommerse.WebUi.Controllers
 {
     [Authorize]
     public class ManageController : Controller

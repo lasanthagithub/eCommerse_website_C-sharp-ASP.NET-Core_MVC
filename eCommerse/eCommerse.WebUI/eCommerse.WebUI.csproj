@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{66B4D559-A4B4-48F7-80DE-BBFCE6EA9570}</ProjectGuid>
+    <ProjectGuid>{066390C8-7357-4A69-AAD9-31CBF625BB95}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>eCommerse.WebUI</RootNamespace>
-    <AssemblyName>eCommerse.WebUI</AssemblyName>
+    <RootNamespace>eCommerse.WebUi</RootNamespace>
+    <AssemblyName>eCommerse.WebUi</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -291,7 +291,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>50687</DevelopmentServerPort>
+          <DevelopmentServerPort>51198</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:50687/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

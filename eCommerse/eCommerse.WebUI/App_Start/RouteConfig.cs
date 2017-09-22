@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace eCommerse.WebUI
+namespace eCommerse.WebUi
 {
     public class RouteConfig
     {
