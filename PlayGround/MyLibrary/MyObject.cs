@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyLibrary
 {
-    class MyObject
+    public class MyObject
     {
         // inetrnal properties
         int _number1 = 0;
