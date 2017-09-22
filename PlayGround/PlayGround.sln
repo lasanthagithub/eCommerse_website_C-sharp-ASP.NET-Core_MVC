@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround", "PlayGround\PlayGround.csproj", "{FB0B2848-311B-4296-8E2D-2C609C27D855}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{6D7CD27B-6208-4568-AA61-3B096E6865EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB0B2848-311B-4296-8E2D-2C609C27D855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB0B2848-311B-4296-8E2D-2C609C27D855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB0B2848-311B-4296-8E2D-2C609C27D855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7CD27B-6208-4568-AA61-3B096E6865EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7CD27B-6208-4568-AA61-3B096E6865EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7CD27B-6208-4568-AA61-3B096E6865EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7CD27B-6208-4568-AA61-3B096E6865EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
