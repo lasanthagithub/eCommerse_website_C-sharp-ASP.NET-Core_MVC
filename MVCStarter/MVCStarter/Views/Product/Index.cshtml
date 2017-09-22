@@ -1,7 +1,26 @@
-﻿
+﻿@model IEnumerable<MVCStarter.Models.Product>
+
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Product List";
 }
 
-<h2>Index</h2>
+<h2>Producrs</h2>
 
+@{Html.RenderAction("PartialProduct", "Product");}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.productName)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.productName)
+        </td>
+    </tr>
+}
+
+</table>
