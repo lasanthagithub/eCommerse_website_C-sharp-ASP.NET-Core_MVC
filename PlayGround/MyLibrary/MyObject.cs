@@ -17,6 +17,7 @@ namespace MyLibrary
         public int number2 { get; set; }
         public int number3 { get; set; }
 
+
         // method
         public int Calculate(int number1, int number2)
         {
