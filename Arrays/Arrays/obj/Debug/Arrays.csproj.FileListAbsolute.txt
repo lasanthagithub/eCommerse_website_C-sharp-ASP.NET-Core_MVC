@@ -1,7 +1,0 @@
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\bin\Debug\Arrays.exe
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\bin\Debug\Arrays.pdb
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\obj\Debug\Arrays.exe
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Arrays\Arrays\obj\Debug\Arrays.pdb

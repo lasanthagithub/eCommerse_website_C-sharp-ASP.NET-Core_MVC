@@ -1,9 +1,0 @@
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\bin\Debug\PlayGround.exe.config
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\bin\Debug\PlayGround.exe
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\bin\Debug\PlayGround.pdb
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\obj\Debug\PlayGround.csproj.CoreCompileInputs.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\obj\Debug\PlayGround.exe
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\bin\Debug\MyLibrary.dll
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\PlayGround\bin\Debug\MyLibrary.pdb
