@@ -10,6 +10,32 @@ namespace PlayGround
     {
         static void Main(string[] args)
         {
+            MyObject myObject = new MyObject();
+            Console.WriteLine("The calculation is " + myObject.Calculate(10, 5));
+            Console.ReadLine();
+        }
+    }
+
+    class MyObject
+    {
+        // inetrnal properties
+        int _number1 = 0;
+        int _number2 = 0;
+
+        //
+        public int number1 { get; set; }
+        public int number2 { get; set; }
+        public int number3 { get; set; }
+
+        // method
+        public int Calculate(int number1, int number2)
+        {
+            return number1 + number2;
+        }
+
+        public string MyMethod()
+        {
+            return "Some value";
         }
     }
 }
