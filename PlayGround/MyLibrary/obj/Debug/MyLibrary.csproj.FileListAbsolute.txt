@@ -3,3 +3,4 @@ F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\MyLibrary
 F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
 F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\MyLibrary\obj\Debug\MyLibrary.dll
 F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\MyLibrary\obj\Debug\MyLibrary.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\PlayGround\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache

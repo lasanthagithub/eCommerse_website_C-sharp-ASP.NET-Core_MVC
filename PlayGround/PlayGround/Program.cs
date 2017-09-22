@@ -16,9 +16,13 @@ namespace PlayGround
 
             var customer = new MyLibrary.Customer();
 
-            var calc = new MyLibrary.Calculate();
+            MyLibrary.ICalculate function = new MyLibrary.AddCalculate();
+            MyLibrary.ICalculate sustractFunction = new MyLibrary.SubstractCalculate();
+            MyLibrary.ICalculate multiplyFunction = new MyLibrary.MultiplyCalculate();
 
-            var results = calc.PerformCal(10, 10);
+            var results = function.PerformCal(10, 10);
+
+            Console.WriteLine(results);
             
             Console.ReadLine();
         }
