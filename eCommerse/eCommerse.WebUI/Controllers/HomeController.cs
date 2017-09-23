@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eCommerse.DAL.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,8 @@ namespace eCommerse.WebUi.Controllers
     {
         public ActionResult Index()
         {
+            DataContext context = new DataContext();
+
             return View();
         }
 

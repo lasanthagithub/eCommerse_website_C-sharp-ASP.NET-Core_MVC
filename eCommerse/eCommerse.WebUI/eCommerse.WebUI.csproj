@@ -275,6 +275,20 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eCommerse.Contracts\eCommerse.Contracts.csproj">
+      <Project>{6ec5a02e-daa0-48a1-9386-b08041a3cf45}</Project>
+      <Name>eCommerse.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eCommerse.DAL\eCommerse.DAL.csproj">
+      <Project>{b14bd4a2-2d6d-4406-835b-5b6e001dc219}</Project>
+      <Name>eCommerse.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eCommerse.Model\eCommerse.Model.csproj">
+      <Project>{2adec42a-1807-471d-b316-2fd0bde4e1f9}</Project>
+      <Name>eCommerse.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
