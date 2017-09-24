@@ -12,6 +12,7 @@ namespace eCommerse.WebUi.Controllers
         public ActionResult Index()
         {
             DataContext context = new DataContext();
+            context.Customers
 
             return View();
         }
