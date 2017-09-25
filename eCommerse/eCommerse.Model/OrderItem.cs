@@ -8,9 +8,9 @@ namespace eCommerse.Model
 {
     public class OrderItem
     {
-        public int OrderItems { get; set; }
+        public int OrderItemID { get; set; }
         public int ProductId { get; set; }
         public int Quantity { get; set; }
-        public decimal OPrice { get; set; }
+        public decimal Price { get; set; }
     }
 }

@@ -48,6 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DataContext.cs" />
+    <Compile Include="Migrations\201709250024196_Initial.cs" />
+    <Compile Include="Migrations\201709250024196_Initial.Designer.cs">
+      <DependentUpon>201709250024196_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\CustomerRepository.cs" />
     <Compile Include="Repositories\ProductRepository.cs" />
@@ -57,7 +62,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201709250024196_Initial.resx">
+      <DependentUpon>201709250024196_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\eCommerse.Contracts\eCommerse.Contracts.csproj">
       <Project>{6ec5a02e-daa0-48a1-9386-b08041a3cf45}</Project>
