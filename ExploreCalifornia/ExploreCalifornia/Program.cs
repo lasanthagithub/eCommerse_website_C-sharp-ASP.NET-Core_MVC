@@ -20,6 +20,7 @@ namespace ExploreCalifornia
                 .Build();
 
             host.Run();
+			
         }
     }
 }
