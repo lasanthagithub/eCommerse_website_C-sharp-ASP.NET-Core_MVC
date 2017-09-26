@@ -1,5 +1,0 @@
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\ExploreLasantha\ExploreLasantha\bin\Debug\netcoreapp1.1\ExploreCalifornia.deps.json
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\ExploreLasantha\ExploreLasantha\bin\Debug\netcoreapp1.1\ExploreCalifornia.runtimeconfig.json
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\ExploreLasantha\ExploreLasantha\bin\Debug\netcoreapp1.1\ExploreCalifornia.runtimeconfig.dev.json
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\ExploreLasantha\ExploreLasantha\obj\Debug\netcoreapp1.1\ExploreCalifornia.csproj.CoreCompileInputs.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\ExploreLasantha\ExploreLasantha\obj\Debug\netcoreapp1.1\ExploreCalifornia.AssemblyInfo.cs

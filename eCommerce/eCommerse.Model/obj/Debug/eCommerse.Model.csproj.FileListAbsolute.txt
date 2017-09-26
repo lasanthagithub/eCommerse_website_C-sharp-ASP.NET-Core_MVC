@@ -1,6 +1,0 @@
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\eCommerse\eCommerse.Model\bin\Debug\eCommerse.Model.dll
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\eCommerse\eCommerse.Model\bin\Debug\eCommerse.Model.pdb
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\eCommerse\eCommerse.Model\obj\Debug\eCommerse.Model.csprojResolveAssemblyReference.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\eCommerse\eCommerse.Model\obj\Debug\eCommerse.Model.csproj.CoreCompileInputs.cache
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\eCommerse\eCommerse.Model\obj\Debug\eCommerse.Model.dll
-F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\eCommerse\eCommerse.Model\obj\Debug\eCommerse.Model.pdb
