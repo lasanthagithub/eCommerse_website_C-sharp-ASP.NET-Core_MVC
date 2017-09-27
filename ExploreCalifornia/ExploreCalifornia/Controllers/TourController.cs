@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ExploreCalifornia.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -28,7 +29,7 @@ namespace ExploreCalifornia.Controllers
 
         // POST: Tour/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create(Tour tour)
         {
             try
             {
