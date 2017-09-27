@@ -1,24 +1,38 @@
-﻿using ExploreCalifornia.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.Entity;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using ExploreCalifornia.Models;
 
 namespace ExploreCalifornia.Controllers
 {
     public class TourController : Controller
     {
+        private MyDbContext db = new MyDbContext();
+
         // GET: Tour
         public ActionResult Index()
         {
-            return View();
+            return View(db.Tours.ToList());
         }
 
         // GET: Tour/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(int? id)
         {
-            return View();
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Tour tour = db.Tours.Find(id);
+            if (tour == null)
+            {
+                return HttpNotFound();
+            }
+            return View(tour);
         }
 
         // GET: Tour/Create
@@ -28,63 +42,86 @@ namespace ExploreCalifornia.Controllers
         }
 
         // POST: Tour/Create
+        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
+        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-        public ActionResult Create(Tour tour)
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "Id,Name,Description,Length,Price,Rating,IncludesMeals")] Tour tour)
         {
-            try
+            if (ModelState.IsValid)
             {
-                // TODO: Add insert logic here
-
+                db.Tours.Add(tour);
+                db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            catch
-            {
-                return View();
-            }
+
+            return View(tour);
         }
 
         // GET: Tour/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(int? id)
         {
-            return View();
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Tour tour = db.Tours.Find(id);
+            if (tour == null)
+            {
+                return HttpNotFound();
+            }
+            return View(tour);
         }
 
         // POST: Tour/Edit/5
+        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
+        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit([Bind(Include = "Id,Name,Description,Length,Price,Rating,IncludesMeals")] Tour tour)
         {
-            try
+            if (ModelState.IsValid)
             {
-                // TODO: Add update logic here
-
+                db.Entry(tour).State = EntityState.Modified;
+                db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            catch
-            {
-                return View();
-            }
+            return View(tour);
         }
 
         // GET: Tour/Delete/5
-        public ActionResult Delete(int id)
+        public ActionResult Delete(int? id)
         {
-            return View();
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Tour tour = db.Tours.Find(id);
+            if (tour == null)
+            {
+                return HttpNotFound();
+            }
+            return View(tour);
         }
 
         // POST: Tour/Delete/5
-        [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
         {
-            try
-            {
-                // TODO: Add delete logic here
+            Tour tour = db.Tours.Find(id);
+            db.Tours.Remove(tour);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
 
-                return RedirectToAction("Index");
-            }
-            catch
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
             {
-                return View();
+                db.Dispose();
             }
+            base.Dispose(disposing);
         }
     }
 }
