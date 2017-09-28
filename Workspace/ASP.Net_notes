@@ -1,0 +1,6 @@
+dotnet --version
+DOTNET_CLI_TELEMETRY_OPTOUT
+dotnet new console --name MyApp
+cd MyApp
+
+dotnet add package Newtonsoft.json

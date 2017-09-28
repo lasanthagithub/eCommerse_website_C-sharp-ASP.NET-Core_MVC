@@ -1,0 +1,10 @@
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\bin\Debug\netcoreapp1.1\MyApp.deps.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\bin\Debug\netcoreapp1.1\MyApp.runtimeconfig.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\bin\Debug\netcoreapp1.1\MyApp.runtimeconfig.dev.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\bin\Debug\netcoreapp1.1\MyApp.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\bin\Debug\netcoreapp1.1\MyApp.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.csprojResolveAssemblyReference.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.csproj.CoreCompileInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.AssemblyInfo.cs
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.pdb
