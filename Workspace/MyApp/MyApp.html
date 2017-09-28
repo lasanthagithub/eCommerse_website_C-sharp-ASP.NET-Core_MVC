@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        // use javascript
+        // Create model object
+        var product1 = { ID:101, Name: "Red apple", Price: 1.99 };
+
+        // Serialize json object
+        var jsonString = JSON.stringify(product1);
+        document.write(jsonString);
+        document.write("<br/>");
+        document.write("<br/>");
+       
+
+        // Deserialize the JSON string back to product object
+        var str = '{"ID":101,"Name":"Red apple","Price":1.99}';
+        var product2 = JSON.parse(str);
+        document.write('Product ID is ' + product2.ID + '<br/>');
+        document.write('Product name is ' + product2.Name + '<br/>');
+        document.write('Product price is ' + product2.Price + '<br/>');
+        document.write("<br/>");
+        document.write("<br/>");
+
+
+    </script>
+    
+</head>
+<body>
+    Welcome to HTML text
+</body>
+</html>
