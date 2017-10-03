@@ -1,0 +1,18 @@
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.csproj.CoreCompileInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfoInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
