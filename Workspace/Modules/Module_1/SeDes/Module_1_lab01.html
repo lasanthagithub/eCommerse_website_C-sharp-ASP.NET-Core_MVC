@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        var p1 = { id: 101, name: 'Product-101', price: 99 };
+
+        // Serialization
+        var poroductStr = JSON.stringify(p1);
+
+        document.write(poroductStr);
+        document.write('<br/>');
+        document.write("=================");
+        document.write('<br/>');
+        // Deserialization
+        var poroductObject = JSON.parse(poroductStr);
+
+        document.write("ID: " + poroductObject.id + " Name: " + poroductObject.name + " Price: " + poroductObject.price);
+        document.write('<br/>');
+        document.write("=================");
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+</html>
