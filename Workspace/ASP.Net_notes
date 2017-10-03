@@ -4,3 +4,25 @@ dotnet new console --name MyApp
 cd MyApp
 
 dotnet add package Newtonsoft.json
+
+
+Start the Web Server
+
+dotnet restore
+dotnet build
+dotnet run
+
+If you see the output below, the server is started:
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+
+
+
+Start the Web Client
+
+dotnet restore
+dotnet build
+dotnet run http://localhost:5000
+
+If you see the output below, the client is started:
+Acceptable input: integer | ALL | EXIT
