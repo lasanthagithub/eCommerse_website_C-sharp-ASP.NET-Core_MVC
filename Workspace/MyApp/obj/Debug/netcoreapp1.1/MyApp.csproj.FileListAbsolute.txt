@@ -8,3 +8,4 @@ F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\
 F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.AssemblyInfo.cs
 F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.dll
 F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.AssemblyInfoInputs.cache
