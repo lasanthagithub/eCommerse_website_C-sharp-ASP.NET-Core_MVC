@@ -1,0 +1,4 @@
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\SeDes\obj\Debug\netcoreapp2.0\SeDes.csprojResolveAssemblyReference.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\SeDes\obj\Debug\netcoreapp2.0\SeDes.csproj.CoreCompileInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfoInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_1\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfo.cs
