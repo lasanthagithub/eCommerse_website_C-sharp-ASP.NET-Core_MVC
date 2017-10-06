@@ -1,0 +1,40 @@
+D:\Temp\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+D:\Temp\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+D:\Temp\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+D:\Temp\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+D:\Temp\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+D:\Temp\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+D:\Temp\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+D:\Temp\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+c:\Source\edX\Course 001\Labs\004\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
