@@ -9550,11 +9550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\One_drive_Gmail\\OneDrive\\My_Projets_Git\\dot_net_projects\\Workspace\\Modules\\Module_2\\Debug Web API with Postman\\Buggy\\WebServer\\WebServer.csproj",
+      "projectUniqueName": "F:\\One_drive_Gmail\\OneDrive\\My_Projets_Git\\dot_net_projects\\Workspace\\Modules\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\\Module_2_Lab_Files\\Debug Web API with Postman\\Buggy\\WebServer\\WebServer.csproj",
       "projectName": "WebServer",
-      "projectPath": "F:\\One_drive_Gmail\\OneDrive\\My_Projets_Git\\dot_net_projects\\Workspace\\Modules\\Module_2\\Debug Web API with Postman\\Buggy\\WebServer\\WebServer.csproj",
+      "projectPath": "F:\\One_drive_Gmail\\OneDrive\\My_Projets_Git\\dot_net_projects\\Workspace\\Modules\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\\Module_2_Lab_Files\\Debug Web API with Postman\\Buggy\\WebServer\\WebServer.csproj",
       "packagesPath": "C:\\Users\\Lasantha_leno\\.nuget\\packages\\",
-      "outputPath": "F:\\One_drive_Gmail\\OneDrive\\My_Projets_Git\\dot_net_projects\\Workspace\\Modules\\Module_2\\Debug Web API with Postman\\Buggy\\WebServer\\obj\\",
+      "outputPath": "F:\\One_drive_Gmail\\OneDrive\\My_Projets_Git\\dot_net_projects\\Workspace\\Modules\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\\Module_2_Lab_Files\\Debug Web API with Postman\\Buggy\\WebServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lasantha_leno\\AppData\\Roaming\\NuGet\\NuGet.Config",

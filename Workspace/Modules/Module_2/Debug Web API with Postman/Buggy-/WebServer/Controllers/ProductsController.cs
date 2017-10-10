@@ -4,7 +4,7 @@ using WebServer.Models;
 
 namespace WebServer.Controllers {
     [Route("api/[controller]")]
-    public class ProductController : Controller {
+    public class ProductsController : Controller {
         [HttpGet]
         public ActionResult Get() {
             return Ok(Repository.Products.Values.ToArray());
@@ -30,6 +30,7 @@ namespace WebServer.Controllers {
                 }
 
                 product.ID = maxExistingID + 1;
+                Repository.Products.Add(product.ID, product);
 
                 return Created($"api/products/{product.ID}", product);
             }
@@ -40,7 +41,7 @@ namespace WebServer.Controllers {
             if (!this.ModelState.IsValid) {
                 return BadRequest();
             } else if (Repository.Products.ContainsKey(id)) {
-                product = Repository.Products[id];
+                Repository.Products[id] = product;
                 return Ok();
             } else {
                 return NotFound();

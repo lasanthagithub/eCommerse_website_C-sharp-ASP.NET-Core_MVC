@@ -38,13 +38,13 @@ C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.csproj.CoreCompileInputs.cache
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfoInputs.cache
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
-f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_2\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.csproj.CoreCompileInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfoInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
