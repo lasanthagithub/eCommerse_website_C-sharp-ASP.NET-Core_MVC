@@ -26,3 +26,9 @@ dotnet run http://localhost:5000
 
 If you see the output below, the client is started:
 Acceptable input: integer | ALL | EXIT
+
+
+dotnet new webapi --name WebServer
+dotnet restore
+dotnet build
+dotnet run
