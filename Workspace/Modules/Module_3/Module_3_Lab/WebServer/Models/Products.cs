@@ -19,5 +19,6 @@ namespace WebServer.Models
             Products.Add(1, new Product { ID = 1, Name = "Bike", Price = 6.66 });
             Products.Add(2, new Product { ID = 2, Name = "Coffee", Price = 7.77 });
         }
+        
     }
 }
