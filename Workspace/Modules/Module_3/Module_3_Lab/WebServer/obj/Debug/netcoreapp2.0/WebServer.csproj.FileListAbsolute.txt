@@ -1,0 +1,10 @@
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Module_3_Lab\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
