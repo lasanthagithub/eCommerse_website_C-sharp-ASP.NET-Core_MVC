@@ -1,0 +1,18 @@
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+c:\Source\edX\Course 001\Labs\009\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.csproj.CoreCompileInputs.cache
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfoInputs.cache
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+f:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Modules\Module_3\Model Bindings\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
