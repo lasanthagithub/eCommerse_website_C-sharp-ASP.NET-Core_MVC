@@ -1,0 +1,10 @@
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\bin\Debug\netcoreapp2.0\WeServer.deps.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\bin\Debug\netcoreapp2.0\WeServer.runtimeconfig.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\bin\Debug\netcoreapp2.0\WeServer.runtimeconfig.dev.json
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\bin\Debug\netcoreapp2.0\WeServer.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\bin\Debug\netcoreapp2.0\WeServer.pdb
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\obj\Debug\netcoreapp2.0\WeServer.csproj.CoreCompileInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\obj\Debug\netcoreapp2.0\WeServer.AssemblyInfoInputs.cache
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\obj\Debug\netcoreapp2.0\WeServer.AssemblyInfo.cs
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\obj\Debug\netcoreapp2.0\WeServer.dll
+F:\One_drive_Gmail\OneDrive\My_Projets_Git\dot_net_projects\Workspace\Connect_MySQL_database\WeServer\obj\Debug\netcoreapp2.0\WeServer.pdb

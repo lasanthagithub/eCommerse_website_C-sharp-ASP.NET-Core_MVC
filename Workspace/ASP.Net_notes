@@ -32,3 +32,15 @@ dotnet new webapi --name WebServer
 dotnet restore
 dotnet build
 dotnet run
+
+
+## add reference to my sql
+
+dotnet new webapi --name WebServer
+dotnet restore
+dotnet build
+dotnet run
+
+dotnet add package Mysql.data.EntityFrameworkCore --version 7.0.7-m61
+dotnet restore
+dotnet build
